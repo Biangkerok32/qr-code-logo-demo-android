@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR Code Icon Demo</string>
+    <string name="edit_qr_content">Content</string>
+</resources>
